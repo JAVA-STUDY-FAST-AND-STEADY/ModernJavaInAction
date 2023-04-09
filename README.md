@@ -45,7 +45,7 @@
 
 | 주차    | 주제                              |
 | ------ | -------------------------------- |
-| 1 주차  | [자바 : 무슨 일이 일어나고 있는가?](https://github.com/Fast-and-Steady/ModernJavaInActionStudy/blob/main/%EC%9E%84%EC%9B%90%ED%98%B8/1%EC%9E%A5%20%EC%9E%90%EB%B0%94%20%3A%20%EB%AC%B4%EC%8A%A8%EC%9D%BC%EC%9D%B4%20%EC%9D%BC%EC%96%B4%EB%82%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%EA%B0%80%3F.md)      |
+| 1 주차  | [자바 : 무슨 일이 일어나고 있는가?](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/%EC%9E%84%EC%9B%90%ED%98%B8/1%EC%9E%A5%20%EC%9E%90%EB%B0%94%20%3A%20%EB%AC%B4%EC%8A%A8%EC%9D%BC%EC%9D%B4%20%EC%9D%BC%EC%96%B4%EB%82%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%EA%B0%80%3F.md)      |
 | 2 주차  | 동작 파라미터화 코드 전달하기           |
 | 3 주차  | 람다 표현식                         |
 | 4 주차  | 스트림 소개                         |
