@@ -71,4 +71,5 @@
 
 ## **1 주차**
 ![image](https://user-images.githubusercontent.com/56383948/230730208-958c8a0a-7ac7-4ec2-b69e-ffdd31ae6fc1.png)
+![image](https://user-images.githubusercontent.com/56383948/232230634-ccddcdb9-2d5b-4fc9-b890-fcdc2333824a.png)
 
