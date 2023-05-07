@@ -10,7 +10,7 @@
     <td align="center"><a href="https://github.com/wonholim"><img src="https://github.com/wonholim.png" width="100px;" alt=""/><br /><sub><b>wonholim</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/movingone"><img src="https://github.com/movingone.png" width="100px;" alt=""/><br /><sub><b>movingone</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/smileyr99"><img src="https://github.com/smileyr99.png" width="100px;" alt=""/><br /><sub><b>smileyr99</b></sub></a><br /></td>
-        <td align="center"><a href="https://github.com/smileyr99"><img src="https://github.com/soyesenna.png" width="100px;" alt=""/><br /><sub><b>soyesenna</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/soyesenna"><img src="https://github.com/soyesenna.png" width="100px;" alt=""/><br /><sub><b>soyesenna</b></sub></a><br /></td>
   </tr>
 </table>
 
@@ -50,7 +50,7 @@
 | 2 주차  | [동작 파라미터화 코드 전달하기](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/%EC%9E%84%EC%9B%90%ED%98%B8/2%EC%9E%A5%20%EB%8F%99%EC%9E%91%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%ED%99%94%20%EC%BD%94%EB%93%9C%20%EC%A0%84%EB%8B%AC%ED%95%98%EA%B8%B0.md)           |
 | 3 주차  | [람다 표현식](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/%EC%9E%84%EC%9B%90%ED%98%B8/3%EC%9E%A5%20%EB%9E%8C%EB%8B%A4%20%ED%91%9C%ED%98%84%EC%8B%9D.md)                         |
 | 4 주차  | [스트림 소개](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/%EC%9E%84%EC%9B%90%ED%98%B8/4%EC%9E%A5%20%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%EC%86%8C%EA%B0%9C.md)                         |
-| 5 주차  | 스트림 활용                         |
+| 5 주차  | [스트림 활용](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/%EC%9E%84%EC%9B%90%ED%98%B8/5%EC%9E%A5%20%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%ED%99%9C%EC%9A%A9.md)                         |
 | 6 주차  | 스트림으로 데이터 수집                 |
 | 7 주차  | 병렬 데이터 처리와 성능                |
 | 8 주차  | 컬렉션 API 개선                     |
