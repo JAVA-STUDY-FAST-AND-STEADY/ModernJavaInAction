@@ -52,7 +52,7 @@
 | 5 주차  | [스트림 활용](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/%EC%9E%84%EC%9B%90%ED%98%B8/5%EC%9E%A5%20%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%ED%99%9C%EC%9A%A9.md)                         |
 | 6 주차  | [스트림으로 데이터 수집](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/wonho/6%EC%9E%A5%20%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91.md)                 |
 | 7 주차  | [병렬 데이터 처리와 성능](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/jooyoung/7%EC%9E%A5.md)                |
-| 8 주차  | 컬렉션 API 개선                     |
+| 8 주차  | [컬렉션 API 개선](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/jooyoung/8%EC%9E%A5.md)                     |
 | 9 주차  | 리팩터링, 테스팅, 디버깅               |
 | 10 주차 | 람다를 이용한 도메인 전용 언어           |
 | 11 주차 | Null 대신 Optional 클래스           |
