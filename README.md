@@ -53,7 +53,7 @@
 | 6 주차  | [스트림으로 데이터 수집](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/wonho/6%EC%9E%A5%20%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91.md)                 |
 | 7 주차  | [병렬 데이터 처리와 성능](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/jooyoung/7%EC%9E%A5.md)                |
 | 8 주차  | [컬렉션 API 개선](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/jooyoung/8%EC%9E%A5.md)                     |
-| 9 주차  | 리팩터링, 테스팅, 디버깅               |
+| 9 주차  | [리팩터링, 테스팅, 디버깅](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/wonho/9%EC%9E%A5%20%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%2C%20%ED%85%8C%EC%8A%A4%ED%8C%85%2C%20%EB%94%94%EB%B2%84%EA%B9%85.md)               |
 | 10 주차 | 람다를 이용한 도메인 전용 언어           |
 | 11 주차 | Null 대신 Optional 클래스           |
 | 12 주차 | 새로운 날짜와 시간 API                |
@@ -69,11 +69,6 @@
 
 <br/>   
 
-## **1 주차**
-![image](https://user-images.githubusercontent.com/56383948/230730208-958c8a0a-7ac7-4ec2-b69e-ffdd31ae6fc1.png)
-## **2 주차**
-![image](https://user-images.githubusercontent.com/56383948/232230634-ccddcdb9-2d5b-4fc9-b890-fcdc2333824a.png)
-## **3 주차**
-![image](https://user-images.githubusercontent.com/56383948/233795513-e147b33a-4124-4325-ab80-fecd79e4c029.png)
+## 휴가
 
-
+- 2023-06-10 휴가 (일본 여행)~
