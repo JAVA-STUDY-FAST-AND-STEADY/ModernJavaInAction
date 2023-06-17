@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97514f6a68e4c2f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10장.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9장.md",
+                "file": "10장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9장.md",
+                "file": "10장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9장.md"
+                "file": "10장.md"
               }
             }
           }
@@ -171,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13969269959f79f5",
+  "active": "97514f6a68e4c2f9",
   "lastOpenFiles": [
-    "8장.md",
     "9장.md",
+    "10장.md",
+    "8장.md",
     "7장.md",
     "7장.pdf",
     "6장.md"
