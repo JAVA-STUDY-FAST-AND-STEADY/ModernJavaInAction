@@ -54,21 +54,26 @@
 | 7 주차  | [병렬 데이터 처리와 성능](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/jooyoung/7%EC%9E%A5.md)                |
 | 8 주차  | [컬렉션 API 개선](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/jooyoung/8%EC%9E%A5.md)                     |
 | 9 주차  | [리팩터링, 테스팅, 디버깅](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/wonho/9%EC%9E%A5%20%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%2C%20%ED%85%8C%EC%8A%A4%ED%8C%85%2C%20%EB%94%94%EB%B2%84%EA%B9%85.md)               |
-| 10 주차 | 람다를 이용한 도메인 전용 언어           |
+| 10 주차 | [람다를 이용한 도메인 전용 언어](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/wonho/10%EC%9E%A5%20%EB%9E%8C%EB%8B%A4%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%A0%84%EC%9A%A9%20%EC%96%B8%EC%96%B4.md)           |
 | 11 주차 | Null 대신 Optional 클래스           |
-| 12 주차 | 새로운 날짜와 시간 API                |
-| 13 주차 | 디폴트 메서드                        |
-| 14 주차 | 자바 모듈 시스템                     |
-| 15 주차 | CompletableFuture와 리액티브 프로그래밍 컨셉의 기초 |
-| 16 주차 | CompletableFuture : 안정적 비동기 프로그래밍 |
-| 17 주차 | 리액티브 프로그래밍                    |
-| 18 주차 | 함수형 관점으로 생각하기                |
-| 19 주차 | 함수형 프로그래밍 기법                  |
-| 20 주차 | OOP와 FP의 조화 : 자바와 스칼라 비교     |
-| 21 주차 | 결론 그리고 자바의 이해(END)            |
+| 11 주차 | 새로운 날짜와 시간 API                |
+| 11 주차 | 디폴트 메서드                        |
+| 12 주차 | 자바 모듈 시스템                     |
+| 12 주차 | CompletableFuture와 리액티브 프로그래밍 컨셉의 기초 |
+| 12 주차 | CompletableFuture : 안정적 비동기 프로그래밍 |
+| 13 주차 | 리액티브 프로그래밍                    |
+| 13 주차 | 함수형 관점으로 생각하기                |
+| 13 주차 | 함수형 프로그래밍 기법                  |
+| 14 주차 | OOP와 FP의 조화 : 자바와 스칼라 비교     |
+| 14 주차 | 결론 그리고 자바의 이해(END)            |
 
 <br/>   
 
 ## 휴가
 
 - 2023-06-10 휴가 (일본 여행)~
+
+
+## 계획 변경
+
+- 다들 방학 이후 바쁜 일정이 많아, 10주차 이후로 3개의 챕터씩 요약 및 정리, 발표하기로 정함.
