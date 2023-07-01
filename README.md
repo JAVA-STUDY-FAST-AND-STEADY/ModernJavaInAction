@@ -16,7 +16,7 @@
 <br/> 
 
 ## ❗️ Rule ❗️
-- `언제?` 매주 토요일 밤 10시
+- `언제?` 매주 토요일 밤 10시 -> 4시
 - `어디서?` Discord 공부방1 에서
 - `무엇을?` 각자 공부하고, 요약한 내용을 정리하며 발표 및 리뷰
 - `왜?` 자바에 대한 깊은 이해를 위해   
@@ -55,9 +55,9 @@
 | 8 주차  | [컬렉션 API 개선](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/jooyoung/8%EC%9E%A5.md)                     |
 | 9 주차  | [리팩터링, 테스팅, 디버깅](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/wonho/9%EC%9E%A5%20%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%2C%20%ED%85%8C%EC%8A%A4%ED%8C%85%2C%20%EB%94%94%EB%B2%84%EA%B9%85.md)               |
 | 10 주차 | [람다를 이용한 도메인 전용 언어](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/wonho/10%EC%9E%A5%20%EB%9E%8C%EB%8B%A4%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%A0%84%EC%9A%A9%20%EC%96%B8%EC%96%B4.md)           |
-| 11 주차 | Null 대신 Optional 클래스           |
-| 11 주차 | 새로운 날짜와 시간 API                |
-| 11 주차 | 디폴트 메서드                        |
+| 11 주차 | [Null 대신 Optional 클래스](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/wonho/11%EC%9E%A5%20null%20%EB%8C%80%EC%8B%A0%20Optional%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)           |
+| 11 주차 | [새로운 날짜와 시간 API](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/wonho/12%EC%9E%A5%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%82%A0%EC%A7%9C%EC%99%80%20%EC%8B%9C%EA%B0%84%20API.md)                |
+| 11 주차 | [디폴트 메서드](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/wonho/13%EC%9E%A5%20%EB%94%94%ED%8F%B4%ED%8A%B8%20%EB%A9%94%EC%84%9C%EB%93%9C.md)                        |
 | 12 주차 | 자바 모듈 시스템                     |
 | 12 주차 | CompletableFuture와 리액티브 프로그래밍 컨셉의 기초 |
 | 12 주차 | CompletableFuture : 안정적 비동기 프로그래밍 |
