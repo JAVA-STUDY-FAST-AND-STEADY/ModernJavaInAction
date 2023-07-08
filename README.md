@@ -59,9 +59,9 @@
 | 11 주차 | [새로운 날짜와 시간 API](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/wonho/12%EC%9E%A5%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%82%A0%EC%A7%9C%EC%99%80%20%EC%8B%9C%EA%B0%84%20API.md)                |
 | 11 주차 | [디폴트 메서드](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/wonho/13%EC%9E%A5%20%EB%94%94%ED%8F%B4%ED%8A%B8%20%EB%A9%94%EC%84%9C%EB%93%9C.md)                        |
 | 12 주차 | [자바 모듈 시스템](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/jooyoung/14%EC%9E%A5.md)                     |
-| 13 주차 | CompletableFuture와 리액티브 프로그래밍 컨셉의 기초 |
-| 13 주차 | CompletableFuture : 안정적 비동기 프로그래밍 |
-| 13 주차 | 리액티브 프로그래밍                    |
+| 13 주차 | [CompletableFuture와 리액티브 프로그래밍 컨셉의 기초](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/dongwon/15%EC%9E%A5%20CompletableFuture%EC%99%80%20%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%BB%A8%EC%85%89%EC%9D%98%20%EA%B8%B0%EC%B4%88.md) |
+| 13 주차 | [CompletableFuture : 안정적 비동기 프로그래밍](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/dongwon/16%EC%9E%A5%20CompletableFuture%20_%EC%95%88%EC%A0%95%EC%A0%81%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md) |
+| 13 주차 | [리액티브 프로그래밍](https://github.com/JAVA-STUDY-FAST-AND-STEADY/ModernJavaInAction/blob/main/jooyoung/17%EC%9E%A5.md)                    |
 | 14 주차 | 함수형 관점으로 생각하기                |
 | 14 주차 | 함수형 프로그래밍 기법                  |
 | 14 주차 | OOP와 FP의 조화 : 자바와 스칼라 비교     |
@@ -72,6 +72,7 @@
 ## 휴가
 
 - 2023-06-10 휴가 (일본 여행)~
+- 2023-07-10 부터 4주까지 네이버부스트캠프
 
 
 ## 계획 변경
